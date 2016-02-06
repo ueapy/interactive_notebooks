@@ -13,3 +13,5 @@ dependencies:
 - numpy
 - pandas
 - scipy
+- pip:
+  - palettable
